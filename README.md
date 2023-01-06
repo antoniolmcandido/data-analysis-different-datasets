@@ -1,6 +1,6 @@
 <h1 align="center">  EDA - Análise Exploratória de Dados </h1>
 
-<p align="center">Análise Exploratória de Dados, desenvolvida pelo <strong>Grupo 5</strong> para a disciplina de Técnicas de Programação I da Formação de Pyhton e Dados - Ada<p>
+<p align="center">Análise Exploratória de Dados, desenvolvida para a disciplina de Técnicas de Programação I da Formação de Pyhton e Dados - Ada<p>
 
 ## Tecnologias
 
