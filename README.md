@@ -1,23 +1,6 @@
 <h1 align="center">  EDA - Análise Exploratória de Dados </h1>
 
 <p align="center">Análise Exploratória de Dados, desenvolvida pelo <strong>Grupo 5</strong> para a disciplina de Técnicas de Programação I da Formação de Pyhton e Dados - Ada<p>
-<p align="center">
-    <a href="##Autores">Autores</a> |
-    <a href="##Tecnologias">Tecnologias</a> |
-    <a href="##Projeto">Projeto</a> 
-</p>
-
- ## Autores
-
-- [Antonio Leandro Martins Candido](https://github.com/antoniolmcandido)
-
-- [Augusto Vinicius da Silva](https://github.com/Vinicius999)
-
-- [Deivid Gabriel](https://github.com/Fukubi) 
-
-- [Hugo Rafael Freitas Negrão](https://github.com/hugonegrao) 
-
-- [Kaio Sinimbu](https://github.com/kaioforte)
 
 ## Tecnologias
 
